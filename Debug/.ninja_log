@@ -1,0 +1,26 @@
+# ninja log v5
+2	331	0	src/controller_internal.o	6972b846609bb579
+4	334	0	src/controller_util.o	58cdcd9c2c114fa6
+5	342	0	src/resource/resource_illuminance_sensor.o	167f0621348770af
+1	345	0	src/connection_manager.o	7c7897cc4391f042
+331	429	0	src/resource.o	cd4e3a495119295
+342	495	0	src/resource/resource_PCA9685.o	2d5ddcec9808afe1
+429	501	0	src/resource/resource_flame_sensor.o	26116ca64c7a0ca2
+345	511	0	src/resource/resource_adc_mcp3008.o	cb7d27af2d6bbe57
+495	585	0	src/resource/resource_gas_detection_sensor.o	d8085a20ed45cb89
+501	589	0	src/resource/resource_infrared_motion_sensor.o	737df047e7669c22
+511	603	0	src/resource/resource_infrared_obstacle_avoidance_sensor.o	55dd8b782d2a1703
+585	656	0	src/resource/resource_led.o	e7862a4c495b86c3
+1	685	0	src/connectivity.o	8fdcba9f7d01c653
+603	696	0	src/resource/resource_rain_sensor.o	1e0bc5df659e57f1
+656	706	0	src/resource/resource_servo_motor.o	6570d456bd3ce684
+685	745	0	src/resource/resource_sound_detection_sensor.o	66f317168515483e
+696	752	0	src/resource/resource_sound_level_sensor.o	9a56cba4463d2a0a
+589	758	0	src/resource/resource_motor_driver_L298N.o	3fb3233d998b9e90
+706	805	0	src/resource/resource_tilt_sensor.o	1bb1050df118e8a0
+758	828	0	src/resource/resource_vibration_sensor.o	9f29bb23a13791af
+746	837	0	src/resource/resource_touch_sensor.o	eee09ece58f7a419
+1	942	0	src/controller.o	9f5699f21f5f7d08
+752	1047	0	src/resource/resource_ultrasonic_sensor.o	faff52b7e2c7e280
+334	1100	0	src/webutil.o	8552225187eb8c5c
+1100	1469	0	rcc	9b9e4878d48838df
